@@ -1,3 +1,1 @@
-First file in C++ language.
-
-Basics in C++.
+Basic Fundamentals in C++ and Related QAs.
